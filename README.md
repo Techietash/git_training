@@ -7,3 +7,7 @@ Mistakes has been corrected
 #still watching the video
 
 I hope this sticks overtime
+# Local Development
+
+open the demo python file
+never use it when bored, handle with care
