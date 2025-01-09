@@ -11,3 +11,7 @@ I hope this sticks overtime
 
 open the demo python file
 never use it when bored, handle with care
+
+##bring it back
+
+This is the part we check if we still remember what we learned 
